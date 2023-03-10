@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.card{
+ 
+  background-image: url("/src/images/bg.jpg"); 
+  background-size: cover;
+  height: 900px;
+
+}
+.card-title{
+  font-family: Lobster;
+  font-size: 50px;
+  -webkit-text-fill-color: whitesmoke;
+}
+Input[type="text"]{
+  height: 60px;
+  width: 360px;
+  
+}
+
+
+.weatherIcon{
+  margin-top: 2rem;
+  height: 100px;
+  width: 100px;
+}
+.res{
+  -webkit-text-fill-color: white;
+}
+
